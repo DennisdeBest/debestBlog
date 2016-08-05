@@ -1,0 +1,11 @@
+email: dennis@debest.fr
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'dennis de best'
+title: m
+state: enabled
+hashed_password: $2y$10$lmNCmc0F8mFSX8BCB8NnxesrH/DUy3sfCmlf4/4wGn9g/kjU9TpSe

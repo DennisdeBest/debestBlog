@@ -1,0 +1,26 @@
+.langswitcher {
+    position: absolute;
+    top: 25px;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin-left: 1rem !important;
+    display: inline-block;
+	color: white !important;
+}
+.langswitcher a {
+color:white !important
+}
+
+.langswitcher li {
+    display: inline-block;
+    margin-left: 0.5rem;
+    line-height: 1rem;
+}
+
+.langswitcher .active {
+    font-weight: bold;
+    text-decoration: underline;
+}
