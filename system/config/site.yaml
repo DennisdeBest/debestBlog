@@ -1,8 +1,8 @@
 title: Grav                                 # Name of the site
 
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@email.com'                   # Default author email
+  name: Dennis de Best                    # Default author name
+  email: 'dennis@debest.fr'                   # Default author email
 
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
