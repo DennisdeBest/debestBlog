@@ -1,6 +1,6 @@
 ---
-title: nice_code_quote
-date: '14:55 10/08/2016'
+title: 'Code maintenance quote'
+date: '08/02/0055 12:00 PM'
 taxonomy:
     category:
         - blog

@@ -9,7 +9,7 @@ taxonomy:
 ---
 
 >It's best to have your tools with you. If you don't, you're apt to find something you didn't expect and get discouraged. 
->--<cite>Stephen King</cite> 
+><cite>Stephen King</cite> 
  
 Good tools are half the job, and this is just as true when you're building a house as when you are building software. 
  
