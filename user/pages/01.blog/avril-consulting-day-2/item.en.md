@@ -1,7 +1,7 @@
---- 
-title: 'Avril Consulting, Day 2' 
---- 
- 
+---
+title: 'Avril consulting, Day 2'
+---
+
 ##the average workday 
  
 Now that you know how I ended up here and how the company got to where it is let's take a look at what the day to day looks like. 

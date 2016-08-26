@@ -1,3 +1,7 @@
+---
+title: 'Avril Consulting, Tools'
+---
+
 >It's best to have your tools with you. If you don't, you're apt to find something you didn't expect and get discouraged. 
 >--<cite>Stephen King</cite> 
  
