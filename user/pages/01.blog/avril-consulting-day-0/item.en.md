@@ -1,6 +1,11 @@
 ---
 title: 'Avril Consulting, Day 0'
 date: '14:55 01/08/2016'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - avril
 ---
 
 After a couple of months of searching a company asked me to come in for an interview.

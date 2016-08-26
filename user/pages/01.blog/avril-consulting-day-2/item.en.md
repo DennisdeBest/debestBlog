@@ -1,5 +1,10 @@
 ---
 title: 'Avril consulting, Day 2'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - avril
 ---
 
 ##the average workday 

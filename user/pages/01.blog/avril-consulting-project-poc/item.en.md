@@ -1,5 +1,11 @@
 ---
 title: 'Avril Consulting, Project POC'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - avril
+        - project
 ---
 
  So what do we (or I in this case) actually do here ? 
@@ -20,7 +26,7 @@ Another inherent problem with this method is completeness or lack thereof, indee
 ![](solution.jpeg?resize=150)![](b_akeneo.png?resize=150)
  
 they asked me to put together a demo that addresses this problem, a **P**roduct **I**nformation **M**anager was the awnser. 
-More specifically Akeneo, an open source **PIM** based on **Symfony**. 
+More specifically **Akeneo**, an open source **PIM** based on **Symfony**. 
 The first order of business was to import the excel files, therefor a connector that takes the input and *cleans* it to a format the PIM can work with needed to be created. 
 Then we needed a way to map the categories of the imported products to the categories created by the end user so that it is easy to organise the products the way he wants to, some more backend development was needed aswell as an interface to set the different options for the import. The last step was the export, a special connector needed to be developed as well as another interface to manage which products to export to which shop. 
  

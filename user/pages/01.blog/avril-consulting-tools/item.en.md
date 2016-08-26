@@ -1,5 +1,11 @@
 ---
 title: 'Avril Consulting, Tools'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - avril
+        - tools
 ---
 
 >It's best to have your tools with you. If you don't, you're apt to find something you didn't expect and get discouraged. 
