@@ -30,4 +30,7 @@ With this the POC was done, we also explored some *cron* configurations to run t
  
 The stressful moment came when it was time to demo the POC to the client because as we all know that's when random bugs start to appear, fortunately enough everything went smoothly and the client was happy with the proposal. 
  
-That was the first assignment I worked on and if you want some more technical details you can download the technical documentation I wrote up here. 
+That was the first assignment I worked on and if you want some more technical details you can download the technical documentation I wrote up here (in french) :
+* [Prestashop module](AkeneoImport%20Prestashop%20Module.pdf)
+* [Akeneo bundles](Akeneo%20POC%20Bundles.pdf)
+* [Akeneo functionality](Akeneo%20POC%20fonctionnalit%C3%A9s.pdf)
