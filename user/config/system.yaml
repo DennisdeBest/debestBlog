@@ -1,7 +1,10 @@
 absolute_urls: false
+timezone: ''
+default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
+force_ssl: false
 languages:
   supported:
     - en
@@ -23,6 +26,7 @@ pages:
   list:
     count: 20
   dateformat:
+    default: null
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
@@ -49,6 +53,7 @@ pages:
     - json
     - rss
     - atom
+  append_url_extension: ''
   expires: 604800
   last_modified: false
   etag: false
@@ -114,6 +119,8 @@ images:
 media:
   enable_media_timestamp: false
   upload_limit: 0
+  unsupported_inline_types: {  }
+  allowed_fallback_types: {  }
 session:
   enabled: true
   timeout: 1800
@@ -121,4 +128,5 @@ session:
   secure: false
   httponly: true
 gpm:
-  releases: stable
+  releases: testing
+  proxy_url: null
