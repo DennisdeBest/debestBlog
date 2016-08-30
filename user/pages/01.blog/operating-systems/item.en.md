@@ -1,5 +1,6 @@
 ---
 title: 'Operating Systems'
+date: '14:55 07/22/2016'
 taxonomy:
     category:
         - blog

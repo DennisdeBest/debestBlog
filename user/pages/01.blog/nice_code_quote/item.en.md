@@ -1,6 +1,6 @@
 ---
 title: 'Code maintenance quote'
-date: '08/02/0055 12:00 PM'
+date: '14:55 06/25/2016'
 taxonomy:
     category:
         - blog

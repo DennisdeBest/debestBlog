@@ -1,13 +1,14 @@
---- 
-title: 'Avril Consulting, Les outils' 
-taxonomy: 
-    category: 
-        - blog 
-    tag: 
-        - avril 
-        - tools 
---- 
- 
+---
+title: 'Avril Consulting, Les outils'
+date: '14:55 07/28/2016'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - avril
+        - tools
+---
+
 >It's best to have your tools with you. If you don't, you're apt to find something you didn't expect and get discouraged.  
 ><cite>Stephen King</cite>  
   

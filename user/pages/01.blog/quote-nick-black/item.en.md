@@ -1,6 +1,6 @@
 ---
 title: 'Quote Nick Black'
-date: '14:55 02/08/2016'
+date: '14:55 08/01/2016'
 taxonomy:
     category:
         - blog

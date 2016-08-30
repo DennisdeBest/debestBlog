@@ -1,5 +1,6 @@
 ---
 title: 'Avril consulting, Day 2'
+date: '14:55 07/15/2016'
 taxonomy:
     category:
         - blog

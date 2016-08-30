@@ -1,5 +1,6 @@
 ---
 title: 'Avril Consulting, Tools'
+date: '14:55 07/28/2016'
 taxonomy:
     category:
         - blog

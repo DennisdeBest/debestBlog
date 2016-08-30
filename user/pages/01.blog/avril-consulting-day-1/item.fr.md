@@ -1,6 +1,11 @@
 ---
 title: 'Avril Consulting, Day 1'
-date: '14:55 11/08/2016'
+date: '14:55 07/08/2016'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - avril
 ---
 
 #Un peu d'histoire
