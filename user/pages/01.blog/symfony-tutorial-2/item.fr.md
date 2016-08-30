@@ -8,5 +8,5 @@ taxonomy:
 type: video
 body_classes: 'single single-post'
 ---
-#Symfony tutorial 2
+#Symfony tutoriel 2
 [plugin:youtube](https://www.youtube.com/watch?v=I3zIOleCEfw)
