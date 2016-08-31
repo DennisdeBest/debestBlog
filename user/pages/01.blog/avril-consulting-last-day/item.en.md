@@ -5,7 +5,7 @@ taxonomy:
     category:
         - blog
     tags:
-        - '-avril'
+        - avril
 ---
 
 After two months my time here is up so let me look back and reflect on my experiences here as an intern.

@@ -5,7 +5,7 @@ taxonomy:
     category:
         - blog
     tags:
-        - '-avril'
+        - avril
 ---
 
 Après deux mois ma période de stage ici touche à sa fin, je vais donc faire un petit point sur mes expériences en tant que stagiaire au sein d'Avril consulting. 
