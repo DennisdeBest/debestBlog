@@ -9,7 +9,7 @@ taxonomy:
         - maintenance
 ---
 
-Une fois un projet mit en production et livré au client le travail ne s'arrête pas, une grande partie du travail d'une agence web est la *maintenance* 
+Une fois un projet en production et livré au client le travail ne s'arrête pas, une grande partie du travail d'une agence web est la *maintenance* 
  
 De temps un temps un client va avoir besoin de nouvelles fonctionnalités ou trouver un *bug* qui à besoins d'être corrigé. 
 Une partie de mon travail de stagiaire est de m'occuper de certaine des ces tâches. 

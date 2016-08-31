@@ -13,6 +13,7 @@ taxonomy:
 Now that you know how I ended up here and how the company got to where it is let's take a look at what the day to day looks like.
  
 Everyone comes in somewhere between 9 and 9:30 and boots up their machines, after that we gather around the SCRUM board for, you've guessed it, the SCRUM meeting.
+![](scrumboard.jpg)
 For those of you that don't know what SCRUM is I'll give you a quick briefing, first off it is not an acronym as you might think it's something to do with rugby (not really my area).
 Basically, it is a project management technique widely used in software development, it is an agile and iterative process.
 Projects are broken down into sprints and sprints into smaller tasks that typically take about a day to accomplish.
