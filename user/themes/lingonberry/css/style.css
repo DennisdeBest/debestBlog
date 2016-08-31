@@ -102,12 +102,12 @@ body {
 }
 
 body a {
-	color: #FF706C;
+	color: #F58300;
 	text-decoration: none;
 }
 
 body a:hover {
-	color: #FF706C;
+	color: #F58300;
 	text-decoration: none;
 }
 
@@ -226,7 +226,13 @@ input#s {
 	margin: 0 auto;
 }
 
-.header { background: #FF706C; }
+.header {
+	background: #f58300; /* Old browsers */
+	background: -moz-linear-gradient(top, #f58300 0%, #dba029 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #f58300 0%, #dba029 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #f58300 0%, #dba029 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f58300', endColorstr='#f58300',GradientType=0 ); /* IE6-9 */
+}
 
 .header-inner {
 	padding: 50px 0;
@@ -571,7 +577,7 @@ iframe, object, video { border: none; max-width: 100%; }
 	text-indent: -9999px;
 }
 
-.post-bubbles a:hover { background-color: #FF706C; }
+.post-bubbles a:hover { background-color: #F58300; }
 
 a.format-bubble {
 	height: 44px;
@@ -735,7 +741,7 @@ html[xmlns] .slides { display: block; }
 }
 
 .format-quote .post-content blockquote cite a:hover {
-	color: #FF706C;
+	color: #F58300;
 	text-decoration: none;
 }
 
@@ -756,7 +762,7 @@ html[xmlns] .slides { display: block; }
 	color: #666;
 }
 
-.single-format-quote .post-content blockquote cite a { color: #FF706C; }
+.single-format-quote .post-content blockquote cite a { color: #F58300; }
 .single-format-quote .post-content blockquote cite a:hover { text-decoration: underline; }
 
 
@@ -847,7 +853,7 @@ html[xmlns] .slides { display: block; }
 .post-nav .post-nav-newer { float: right; }
 
 .post-nav a:hover, .post-nav a.current {
-	background: #FF706C;
+	background: #F58300;
 	color: #FFF;
 }
 .pagination a {
@@ -1166,7 +1172,7 @@ img.alignnone,
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	padding: 10px 12px;
-	background: #FF706C;
+	background: #F58300;
 	color: #fff;
 }
 
@@ -1232,7 +1238,7 @@ img.alignnone,
 .post-content input[type="reset"]:hover,
 .post-content input[type="button"]:hover {
 	cursor: pointer;
-	background: #FF706C;
+	background: #F58300;
 	color: #fff;
 }
 
@@ -1557,7 +1563,7 @@ p.logged-in-as {
 
 .comment-form button[type="submit"]:hover, .form-allowed button[type="submit"]:hover  {
 	cursor: pointer;
-	background-color: #FF706C;
+	background-color: #F58300;
 	color: #FFF;
 }
 
@@ -1793,7 +1799,7 @@ p.form-allowed-tags {
 }
 
 .tagcloud a:hover {
-	background: #FF706C;
+	background: #F58300;
 	text-decoration: none;
 	color: #FFF;
 }
@@ -1810,7 +1816,7 @@ p.form-allowed-tags {
 }
 
 .ui-datepicker-calendar a { color: #888; }
-.ui-datepicker-calendar a.ui-state-active { color: #FF706C; }
+.ui-datepicker-calendar a.ui-state-active { color: #F58300; }
 
 .ui-datepicker-calendar,
 .ui-datepicker-calendar caption,
