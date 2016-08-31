@@ -1,5 +1,5 @@
 ---
-title: 'Avril Consulting, Day 0'
+title: 'Avril Consulting, Jour 0'
 date: '14:55 07/01/2016'
 ---
 

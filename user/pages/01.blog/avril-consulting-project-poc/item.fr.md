@@ -1,5 +1,5 @@
 ---
-title: 'Avril Consulting, Project POC'
+title: 'Avril Consulting, Projet POC'
 date: '14:55 08/10/2016'
 taxonomy:
     category:

@@ -1,5 +1,5 @@
 ---
-title: 'Avril Consulting, Day 1'
+title: 'Avril Consulting, Jour 1'
 date: '14:55 07/08/2016'
 taxonomy:
     category:
