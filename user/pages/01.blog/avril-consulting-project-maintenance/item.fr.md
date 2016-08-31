@@ -1,5 +1,5 @@
 ---
-title: 'Avril Consulting, Project Maintenance'
+title: 'Avril Consulting, Maintenance de projet'
 date: '14:55 08/17/2016'
 taxonomy:
     category:
@@ -9,36 +9,36 @@ taxonomy:
         - maintenance
 ---
 
-
-Once a website is put into production and delivered to the client the fun doesn't just stop, a big part of the work is **maintenance**.
+Une fois un projet mit en production et livré au client le travail ne s'arrête pas, une grande partie du travail d'une agence web est la *maintenance* 
  
-Every now and again the client will want new functionality implemented or discovers a bug that needs fixing, part of my job as an intern was taking care of some of these tasks.
+De temps un temps un client va avoir besoin de nouvelles fonctionnalités ou trouver un *bug* qui à besoins d'être corrigé. 
+Une partie de mon travail de stagiaire est de m'occuper de certaine des ces tâches. 
  
-The projects I worked on were built with *Prestashop* and this brings different challenges from building a site from the ground up.
+Les projets sur lesquelles j'ai pu faire de la maintenance étaient développés avec le framework *Prestshop*, la maintenance présente des challenges différent de la réalisation d'un projet de zéro. 
  
-When doing maintenance you always pray for well-documented code but this is hardly ever the case, it seems documentation is every programmer's least favourite activity.
+Quand on entame de la maintenance sur un nouveau projet on prie toujours que le développeur nous à laissé une bonne documentation et bien commenté son code, mais c'est rarement le cas. 
  
-The first project I worked on was using *Prestashop* 1.6.1, one of the latest releases. My job was to customise the wish list module to add things like :
-* Create new wish lists straight from a dropdown when a heart icon is clicked on the product page
-* Fill in the heart icon and add new wish lists to the dropdown dynamically using Ajax
+Le premier projet sur lequel j'ai travaillé était développé sous *Prestashop* 1.6.1, une des dernières versions. Ma tâche était de customiser le module wish list (liste de souhaits) et ajouter des fonctionnalités comme : 
+* Créer une nouvelle liste depuis un *dropdown* quand on clique sur un cœur à côté d'un produit 
+* remplir l'icône en forme de cœur quand on produit est ajouté à une liste et rajouter les nouvelles listes au dropdowns en *ajax* sans rechargé la page. 
  
-This was accomplished fairly easily by overriding the default module and adding some **jQuery**, **Ajax** and **PHP**.
+Avec un peu de **jQuery**, **PHP** et **AJAX** dans un *override* du module de base ça c'est fait assez facilement. 
  
-At this point I was feeling pretty confident when I was asked to correct some bugs on a different project again using *Prestashop* my newly found confidence was short-lived however.
-After I span up a new *Virtual Machine* it quickly became apparent that the project used version 1.5 of Prestashop which is a whole other animal from the previous project.
-The demands were :
-* Add some text to a contact page
-* Implement a search function to the mobile version of the website
-* Fix the geolocalization
+Avec cette prmière réussite je me suis plutôt confiant pour la suite, mais, ce n'était que de courte durée. 
+En effet le deuxième projet était de nouveau sous *Prestashop* mais après avoir lancé une nouvelle *machine virtuelle* je me suis vite aperçu que le projet utilisait *Prestashop* 1.5 qui est radicalement différent de la version d'avant. 
+Les demandes sur ce projet étaient :  
+* Rajouter du texte à la fin du formulaire de contact 
+* Ajouter une barre de recherche sur le site mobile 
+* Réparer la géolocalisation 
  
-The first one was pretty straight forward but the site was not coded using **R**esponsive **W**eb **D**esing so even just adding a few lines of text completely ruined the page layout.
-After changing a few lines of CSS and changing some images the job was done in about 3 hours.
+La première tâche était plutôt simple mais du fait que le site n'implémentait pas le **R**esponsive **W**eb **D**esign quelques chose d'aussi triviale que de rajouter du texte cassait entièrement le *layout* de la page. 
+En modifiant quelques lignes de **CSS** et quelques images ce fût chose faite en environ 3 heures. 
  
-Next up the implementation of the search bar in the mobile website, this turned out a lot easier than anticipated and was mostly a question of activating the module on the correct page from the back office and writing a few lines of CSS.
+L'implémentation d'une barre de recherche sur le site mobile était plus facile que prévu et impliquait surtout de la configuration dans le *back office* et l'ajout de quelques lignes de **CSS**. 
  
-The last one however is something dreaded by most project managers, *regression*.
-Indeed the geolocalization of the user to propose the closest store used to work and stopped all of a sudden for no apparent reason.
-After a couple of hours of research it turned out that google chrome was the culprit, starting at version 50 chrome doesn't allow geolocalization requests for non secure servers (the ones not using https).
-The only solution would be to get an SSL certificate for the server and migrating everything to https, this of course needs approval from the client as it goes beyond simple maintenance and the costs are more consequential.
+La dernière tâche s'est révélé plus fourbe et touche une corde sensible chez les chef de projets, la *régression*. 
+En effet la géolocalisation permet de trouver la magasin le plus proche de l'utilisateur et à toujours fonctionné sans problème puis c'est arrêté d'un coup sans raison apparente. 
+Après quelques heures de recherches il s'est avéré que *chrome* était le coupable, depuis la version 50 du navigateur les requêtes de géolocalisation depuis des serveurs non sécurisées (ceux qui ne sont pas en *https*) n'était plus autorisé. 
+La seule solution est donc d'obtenir un certificat **SSL** pour le serveur et migrer le site, ceci nécessite l'accord du client car ça dépasse la simple maintenance et les couts de l'opération peuvent être considérables. 
  
-So that was my maintenance experience so far.
+Mon expérience dans la maintenance applicative s'arrête à ça pour le moment. 
