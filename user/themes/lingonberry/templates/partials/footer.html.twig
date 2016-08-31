@@ -41,6 +41,17 @@
       </div>
       <div class="clear"></div>
     </div>
+    {% else %}
+    <div class="footer-c widgets">
+      <div class="widget widget_archives">
+        <div class="widget-content">
+          <h3 class="widget-title">Archives</h3>
+          <div id="archive_wrap">
+      {% include 'partials/archives.html.twig' %}
+          </div>
+        </div>
+      </div>
+    </div>
     {% endif %}
 
     <div class="clear"></div>
