@@ -228,9 +228,9 @@ input#s {
 
 .header {
 	background: #f58300; /* Old browsers */
-	background: -moz-linear-gradient(top, #f58300 0%, #dba029 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #f58300 0%, #dba029 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #f58300 0%, #dba029 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: -moz-linear-gradient(top, #f58300 0%, #dba029 60%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #f58300 0%, #dba029 60%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #f58300 0%, #dba029 60%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f58300', endColorstr='#f58300',GradientType=0 ); /* IE6-9 */
 }
 
