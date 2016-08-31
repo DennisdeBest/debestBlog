@@ -7,5 +7,7 @@ logs/
 images/
 user/data/
 backup/
+user/accounts
+user/config
 
 .idea/
