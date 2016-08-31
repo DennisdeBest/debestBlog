@@ -26,7 +26,7 @@ Chaque pictogramme représente l'état d'esprit de la personne, ça permet de vo
  
 Maintenant que vous êtes un *SCRUM master* passons au choses sérieuses, la journée du développeur est majoritairement occupé par, vous l'avez deviné, du développement ! 
  
-Je ne vais pas vous ennuyez avec les détails techniques de ce côté la de la journée (pour l'instant), penchons nous plutôt sur l'organisation de l'espace de travail. 
+Je ne vais pas vous ennuyer avec les détails techniques de ce côté là de la journée (pour l'instant), penchons nous plutôt sur l'organisation de l'espace de travail. 
 Dans un style typiquement *start-up* nous travaillons dans un *open-space*, quelques grands bureaux en bois sont collés les uns aux autres au centre de la pièce sur lesquelles sont posés 8 ordinateurs. 
 Ici nous pouvons donc voir le développeur dans son habitat naturel tapant furieusement sur son clavier toute la journée. 
 On entends souvent de la musique grâce à l'application *festify* qui permet à chacun de rajouter ses musiques à une playlist commune, d'autres fois c'est le calme totale et nous pouvons voir les gens avec leurs casques sur la tête absorbé par le travail. 
