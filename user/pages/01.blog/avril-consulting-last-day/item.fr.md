@@ -1,5 +1,5 @@
 ---
-title: 'Avril Consluting, last day'
+title: 'Avril Consluting, Dernier jour'
 date: '09:27 08/28/2016'
 taxonomy:
     category:
@@ -8,14 +8,6 @@ taxonomy:
         - '-avril'
 ---
 
-title: Avril Consluting, dernier jour 
-date: '09:27 08/28/2016'  
-taxonomy: 
-    category: 
-        - blog 
-    tags: 
-        -avril 
-         
 Après deux mois ma période de stage ici touche à sa fin, je vais donc faire un petit point sur mes expériences en tant que stagiaire au sein d'Avril consulting. 
  
 ###L'entreprise 
